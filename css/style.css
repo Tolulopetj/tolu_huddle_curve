@@ -410,6 +410,7 @@ form input[type="text"]{
     .main-section{
         text-align: initial;
         padding: 45px;
+        margin-top: -2%;
     }
     .section-2_content{
         padding-left: initial;
